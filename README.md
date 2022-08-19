@@ -2,7 +2,7 @@
 
 I'm Krafan! I'm currently mainly focused on modding Hearts of Iron 4.
 
-In future I plan to sit on game development and create 2D pixel art adventure light novel about people with social problems.
+In future I plan to sit on game development and create 3D adventure light novel about people with social problems.
 You can read about concept here:
 NOT AVAIlABLE YET
 
