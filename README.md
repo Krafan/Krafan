@@ -2,11 +2,13 @@
 
 I'm Krafan! I'm currently mainly focused on modding Hearts of Iron 4.
 
-In future I plan to sit on game development and create 3D adventure light novel about people with social problems.
+I'm also a physics and chemical physics maniac so you can count on me when it comes to those topics.
+
+In future I plan to sit on game development and create 3D adventure game about people with social problems.
 You can read about concept here:
 NOT AVAIlABLE YET
 
-Ask if you need help or advice
+Ask if you need help or advice,
 You're welcome
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krafan&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
