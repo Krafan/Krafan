@@ -11,5 +11,5 @@ NOT AVAIlABLE YET
 Ask if you need help or advice,
 You're welcome
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krafan&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Krafan)](https://github.com/stats-organization/github-stats-extended)
 
